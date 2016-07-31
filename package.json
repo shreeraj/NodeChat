@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/shreeraj/NodeChat/issues"
   },
-  "homepage": "https://github.com/shreeraj/NodeChat#readme"
+  "homepage": "https://github.com/shreeraj/NodeChat#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
 }
